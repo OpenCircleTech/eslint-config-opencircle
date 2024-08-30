@@ -1,0 +1,1 @@
+# OpenCircle ESLint config

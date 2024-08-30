@@ -1,0 +1,7 @@
+{
+  "name": "@opencircle/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration used by OpenCircle.",
+  "main": "index.js",
+  "license": "MIT"
+}
